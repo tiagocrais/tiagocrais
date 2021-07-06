@@ -1,5 +1,10 @@
-### Hi there 👋
+# Tiago Crais Camargo
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagocraiscamargo/)](https://www.linkedin.com/in/tiagocraiscamargo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mailto:tiagocrais@gmail.com)](mailto:tiagocrais@gmail.com)
+
+- :man_technologist: Engenheiro de Software na **CI&T**.
+- :heavy_check_mark: Java, Spring, Angular, Typescript, Node, Docker, AWS.
 <!--
 **tiagocrais/tiagocrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
